@@ -1,0 +1,30 @@
+h1{background-color: green;border: 1px solid black;border-radius: 8px;padding: 9px;text-align: center;}
+	span.text-red{color: red;}
+	div#foot{text-align: right;font-size: larger;}
+	table{border-collapse: collapse;}
+     th,td{border: 1px solid black;padding: 5px}
+     div#img{text-align: left;}
+     p.modif-p{font-family: arial sans-serif;
+     	font-weight: bolder;
+     	font-size: 100%;}
+     span.text-shadow{text-shadow: 0 0 2px red;}
+     span.mppp{text-transform: capitalize;
+               vertical-align: baseline;}
+      p.jitt{text-indent: 15px}
+      p.jfife{letter-spacing:3px;word-spacing: 3px}
+body{background-color: yellowgreen;}ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: ;
+	background: green;
+	float: left;} li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;} li a:hover{
+	background-color: 111111;} li {
+	float: left;}
+ p.dert{color: red;}h3{color: green;}
+ 
